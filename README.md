@@ -84,6 +84,7 @@ $$
 ---
 
 ## 📂 Repository Structure
+
 ├── README.md
 ├── docs/
 │ └── Project_Report.pdf
@@ -114,6 +115,3 @@ $$
 
 - **Mober**  
   Modern Control Systems Project (2024–2025)
-
-## 📂 Repository Structure
-
