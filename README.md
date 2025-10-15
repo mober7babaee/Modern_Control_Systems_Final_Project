@@ -21,21 +21,22 @@ The **control objective** is to regulate and stabilize the vertical position of 
 
 The nonlinear state-space equations of the magnetic levitation system are:
 
-\[
+$$
 \dot{x}_1 = x_2
-\]
+$$
 
-\[
+$$
 \dot{x}_2 = -g + \frac{c}{M} \frac{x_3^2}{0.1 - x_1} - \frac{f_v}{M} x_2
-\]
+$$
 
-\[
+$$
 \dot{x}_3 = \frac{1}{L}(-R x_3 + u)
-\]
+$$
 
-\[
+$$
 y = x_1
-\]
+$$
+
 
 ### 📊 Parameters
 
