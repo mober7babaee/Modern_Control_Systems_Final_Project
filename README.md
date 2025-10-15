@@ -83,24 +83,6 @@ $$
 
 ---
 
-## 📂 Repository Structure
-
-├── README.md
-├── docs/
-│ └── Project_Report.pdf
-├── src/
-│ ├── phase1/
-│ └── phase2/
-├── simulink/
-│ ├── vrmaglev_sys.slx
-│ └── controllers/
-└── results/
-├── linear_responses/
-└── nonlinear_responses/
-
-
----
-
 ## 🚀 How to Run
 
 1. Open `vrmaglev_sys.slx` in Simulink.  
